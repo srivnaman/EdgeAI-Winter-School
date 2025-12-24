@@ -6,4 +6,7 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "mqtt>=0.0.1",
+    "numpy>=2.4.0",
+    "ollama>=0.6.1",
+    "transformers==4.49.0",
 ]
